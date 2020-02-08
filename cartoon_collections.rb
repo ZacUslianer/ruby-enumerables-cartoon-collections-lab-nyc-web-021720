@@ -34,3 +34,5 @@ cheese_types = ["cheddar", "gouda", "camembert"]
  cheese_type.include?(type)
 end
 end
+
+find_the_cheese(snacks)
