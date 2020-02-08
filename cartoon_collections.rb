@@ -29,6 +29,7 @@ i += 1
 end
 
 def find_the_cheese(string)
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
+i = 0 
+if
+cheese_types = ["cheddar", "gouda", "camembert"]
 end
