@@ -28,8 +28,10 @@ end
 i += 1
 end
 
-def find_the_cheese(string)
-i = 0 
-if
+def find_the_cheese(array)
 cheese_types = ["cheddar", "gouda", "camembert"]
+
+i = 0 
+if array.find {|type|
+
 end
