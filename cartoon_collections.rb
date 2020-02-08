@@ -35,4 +35,3 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 end
 end
 
-find_the_cheese(snacks)
