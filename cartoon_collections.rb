@@ -33,5 +33,6 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 
 i = 0 
 if array.find do |type|
+end
 
 end
